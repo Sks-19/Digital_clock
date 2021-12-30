@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sks-19/Marvel_Movies/static/css/main.1b52f1ac.css",
+    "main.js": "/Sks-19/Marvel_Movies/static/js/main.2f09864c.js",
+    "static/js/787.36593a1c.chunk.js": "/Sks-19/Marvel_Movies/static/js/787.36593a1c.chunk.js",
+    "index.html": "/Sks-19/Marvel_Movies/index.html",
+    "main.1b52f1ac.css.map": "/Sks-19/Marvel_Movies/static/css/main.1b52f1ac.css.map",
+    "main.2f09864c.js.map": "/Sks-19/Marvel_Movies/static/js/main.2f09864c.js.map",
+    "787.36593a1c.chunk.js.map": "/Sks-19/Marvel_Movies/static/js/787.36593a1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b52f1ac.css",
+    "static/js/main.2f09864c.js"
+  ]
+}
