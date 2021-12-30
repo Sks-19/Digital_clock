@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sks-19/Avengers/static/css/main.3e2230d8.css",
-    "main.js": "/sks-19/Avengers/static/js/main.650cf257.js",
-    "index.html": "/sks-19/Avengers/index.html",
-    "main.3e2230d8.css.map": "/sks-19/Avengers/static/css/main.3e2230d8.css.map",
-    "main.650cf257.js.map": "/sks-19/Avengers/static/js/main.650cf257.js.map"
+    "main.css": "/avengers_movies/static/css/main.3e2230d8.css",
+    "main.js": "/avengers_movies/static/js/main.650cf257.js",
+    "index.html": "/avengers_movies/index.html",
+    "main.3e2230d8.css.map": "/avengers_movies/static/css/main.3e2230d8.css.map",
+    "main.650cf257.js.map": "/avengers_movies/static/js/main.650cf257.js.map"
   },
   "entrypoints": [
     "static/css/main.3e2230d8.css",
